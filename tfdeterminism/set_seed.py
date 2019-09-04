@@ -10,5 +10,6 @@ def set_seed(seed = 1):
     """
     random.seed(seed)
     np.random.seed(seed)
-    tf.set_random_seed(seed)
+    tf.compat.v1.set_random_seed(seed)
+    print(f"Random seed == {seed}")
 
