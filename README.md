@@ -61,3 +61,6 @@ TensorFlow with GPU support.
 [1]: http://bit.ly/determinism-in-deep-learning
 [2]: https://ngc.nvidia.com/catalog/containers/nvidia:tensorflow
 [3]: https://www.tensorflow.org/install/gpu
+
+## Slides
+https://developer.download.nvidia.com/video/gputechconf/gtc/2019/presentation/s9911-determinism-in-deep-learning.pdf
